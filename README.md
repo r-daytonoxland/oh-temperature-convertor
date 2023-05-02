@@ -6,7 +6,7 @@ This repo contains the following files;
 ConversionFinal.ipynb : Jupyter notebook including plots and more explanation of the method
 oh_einstein_temp_convert : Downloadable Python package which does the conversion on any list of temperatures
 
-GSC,LG,MIES_QUANT.txt : Text files containing the necessary Einstein coefficient and quantum data, download them and put them in the same folder as the package or Jupyter notebook.
+GSC,LG,MIES_QUANT.txt : Text files containing the necessary Einstein coefficient and quantum data, download them and put them in the same folder as the Jupyter notebook (otherwise they will be automatically downloaded within the package).
 
 
 """
