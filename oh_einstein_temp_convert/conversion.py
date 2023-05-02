@@ -60,7 +60,7 @@ import numpy as np
 import pandas as pd
 
 # Identify filepaths to each set of Einstein coefficients
-file_paths = ["FredFiles/MIES_QUANT.txt", "FredFiles/LG_QUANT.txt", "GSC_QUANT.txt"]
+file_paths = ["MIES_QUANT.txt", "LG_QUANT.txt", "GSC_QUANT.txt"]
 
 # PHYSICAL CONSTANTS
 h = 6.62607015e-34  # Planck constant in J·s
