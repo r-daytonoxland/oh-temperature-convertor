@@ -3,7 +3,9 @@ This repo contains code which translates temperatures originally calculated from
 
 """
 Created: 2023-04-28
+
 Author: Rowan Alethea Dayton-Oxland
+
 Contact: R.A.Dayton-Oxland@soton.ac.uk
 
 This script converts a OH*(6-2) temperature between different Einstein coefficients.
@@ -17,8 +19,11 @@ This script converts a OH*(6-2) temperature between different Einstein coefficie
 INPUTS
 ---
 Tin : Input temperature in Kelvin
+
 Ain : Original Einstein coefficient source (see Tab)
+
 Aout : Desired output Einstein coefficient source (see Tab)
+
 
 
 TAB
@@ -37,16 +42,23 @@ Tout : The converted OH temperature for the new Einstein coefficient source
 VARIABLES
 ---
 Ain is the original Einstein coefficient
+
 Aout is the new Einstein coefficient
+
 Tin is the original output temperature
+
 J2 is the rotational angular momentum of the excited/upper state
+
 Partition is the value of the partition term ln(N/Qr)
+
 Fprime is the rotational term in the upper state
 
 PHYSICAL CONSTANTS
 ---
 h is the Planck constant
+
 c is the speed of light in a vaccuum
+
 k is the Boltzmann constant
 
 UPDATES
