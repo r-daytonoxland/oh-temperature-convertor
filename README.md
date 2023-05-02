@@ -1,6 +1,14 @@
 # oh-temperature-convertor
 This repo contains code which translates temperatures originally calculated from OH*(6-2) transiton spectra using a certain set of Einstein coefficients to a new set of Einstein coefficients with no need of the original data.
 
+This repo contains the following files;
+
+ConversionFinal.ipynb : Jupyter notebook including plots and more explanation of the method
+oh_einstein_temp_convert : Downloadable Python package which does the conversion on any list of temperatures
+
+GSC,LG,MIES_QUANT.txt : Text files containing the necessary Einstein coefficient and quantum data, download them and put them in the same folder as the package or Jupyter notebook.
+
+
 """
 Created: 2023-04-28
 
@@ -32,6 +40,7 @@ TAB
     ---------------------------------
     Mies 1974                       0
     Loo and Groenenboom 2008        1
+    GSC (?)                         2
 
 
 OUTPUTS
