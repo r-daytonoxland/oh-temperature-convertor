@@ -4,6 +4,8 @@ oh_einstein_temp_convert is a Python package which translates temperatures origi
 
 It is published on Pypi and kept here, this repo also includes a Jupyter notebook with the same code in a more prose-style with plots to explain the steps.
 
+[Pypi package](https://pypi.org/project/oh-einstein-temp-convert/)
+
 ### Author
 Rowan Dayton-Oxland
 [University of Southampton](https://www.southampton.ac.uk/people/5z2prx/miss-rowan-dayton-oxland)
